@@ -1,0 +1,6 @@
+env/
+out/
+plots/
+.env
+__pycache__/
+*.pyc
